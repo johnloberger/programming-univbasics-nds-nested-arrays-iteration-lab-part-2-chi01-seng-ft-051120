@@ -13,5 +13,6 @@ row_index = 0
       results << min_string_element
       row_index += 1
   end
+  results
 end
-return results
+
